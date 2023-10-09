@@ -1,4 +1,4 @@
-package it.polimi.softeng.esercitazione1.RockPaperScissor;
+package it.polimi.softeng.esercitazioni.esercitazione1.RockPaperScissor;
 
 import java.util.Random;
 

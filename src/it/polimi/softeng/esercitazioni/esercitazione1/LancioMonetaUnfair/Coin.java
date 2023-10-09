@@ -1,6 +1,6 @@
-package it.polimi.softeng.esercitazione1.LancioMonetaUnfair;
+package it.polimi.softeng.esercitazioni.esercitazione1.LancioMonetaUnfair;
 
-import it.polimi.softeng.esercitazione1.LancioMoneta.Side;
+import it.polimi.softeng.esercitazioni.esercitazione1.LancioMoneta.Side;
 
 import java.util.Random;
 
